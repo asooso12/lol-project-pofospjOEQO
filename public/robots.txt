@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search*
+Disallow: /update/*
+Disallow: /*/shortcut/*
+Disallow: /*/matches*
+Disallow: /*/match/*
+Sitemap: https://lolog.me/sitemap.xml
